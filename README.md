@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kelechi, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<h1>Hi, I'm Kelechi, an <a href="https://linkedin.com/in/kelechi-omah-0530543a6/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/KelechiOmah/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/KelechiOmah/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KelechiOmah/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KelechiOmah/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
