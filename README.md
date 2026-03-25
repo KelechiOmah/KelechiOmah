@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://(https://www.linkedin.com/in/kelechi-omah-0530543a6/)
+[linkedin]: https://(/www.linkedin.com/in/kelechi-omah-0530543a6/)
